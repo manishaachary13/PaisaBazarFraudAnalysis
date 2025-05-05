@@ -65,4 +65,4 @@ This analysis helps stakeholders:
 
 **Manisha Achary**
 📧 [rmanishaachary@gmail.com](mailto:rmanishaachary@gmail.com)
-📎 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) *(Add real links)*
+📎 [LinkedIn](https://www.linkedin.com/in/r-manisha-achary-470798204/) | [GitHub](https://github.com/manishaachary13) 
