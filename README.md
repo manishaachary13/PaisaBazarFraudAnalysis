@@ -13,8 +13,6 @@ The dataset includes:
 * Channel of interaction (App/Web)
 * Application behavior and response
 
-> *(Update these fields if your dataset has different columns)*
-
 ### 🎯 Objectives
 
 * Understand customer segmentation
